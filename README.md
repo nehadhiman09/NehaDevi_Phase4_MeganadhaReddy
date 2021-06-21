@@ -1,7 +1,9 @@
-# ng2-quiz
+# Onine Test Application(Quiz App)
+#Tools and Technology used in this project:
+#Technology: 	
+Bootstrap 4, Angular 8, HTML. JavaScript
 
-A general purpose quiz application developed in angular (version 8) that can be used for multiple purpose.
-+
-+For detailed documentation, please go to: https://www.codeproject.com/Articles/1167451/Quiz-Application-in-Angular
-
-### Please raise a pull request for any bug fix or if you have implemented a new feature and feel it is useful.
+#Bootstrap 4:
+		Bootstrap is the most popular HTML, CSS, and JavaScript frameworks  for developing responsive, mobile-first web sites.
+#Angular 8: 
+		Angular 8 is an open-source, client-side TypeScript based JavaScript framework. It is written in TypeScript and complied into JavaScript. Angular 8 is used to create dynamic web applications. It is very similar to its previous versions except having some extensive features.
